@@ -12,3 +12,4 @@ This is how to check what files are installed
 
     dpkg -L pkg-name
 
+This is my first note on github.:)
